@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="986" height="986" viewBox="0 0 986 986">
+  <g id="Group_1" data-name="Group 1" transform="translate(-886 -17)">
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(886 17)" fill="#fff" stroke="#707070" stroke-width="24">
+      <circle cx="493" cy="493" r="493" stroke="none"/>
+      <circle cx="493" cy="493" r="481" fill="none"/>
+    </g>
+    <text id="Home_Decor" data-name="Home Decor" transform="translate(983 148)" fill="#5d95bd" font-size="300" font-family="Playfair Display" font-weight="800" font-style="italic"><tspan x="0" y="325">Home</tspan><tspan y="325" fill="#707070"> </tspan><tspan x="0" y="545" fill="#707070">Decor</tspan></text>
+  </g>
+</svg>
