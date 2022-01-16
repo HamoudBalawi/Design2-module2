@@ -54,10 +54,17 @@ ul li a {
   padding: 5px;
   text-decoration: none;
   color: purple;
-  font-family: "PlayfairDisplay", sans-serif;
+  font-family: "Lato", sans-serif;
 }
 ul li a:hover {
   color: gray;
+}
+.active {
+  color: white;
+  font-weight: 600;
+  background-color: purple;
+  padding: 5px;
+  border-radius: 5px;
 }
 .icon-container {
   position: absolute;
@@ -68,6 +75,7 @@ ul li a:hover {
 .icon-container {
   display: flex;
 }
+
 .search-input input,
 .subscribe-input input {
   padding: 8px;
@@ -185,6 +193,10 @@ footer {
   background-position: center;
   padding: 0%;
   margin: 0%;
+  filter: contrast(0.3);
+}
+h1 {
+  text-align: center;
 }
 .product-contianer {
   display: flex;
