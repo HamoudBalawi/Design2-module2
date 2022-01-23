@@ -54,7 +54,7 @@ ul li a {
   padding: 5px;
   text-decoration: none;
   color: purple;
-  font-family: "Lato", sans-serif;
+  font-family: "Be Vietnam Pro", sans-serif;
 }
 ul li a:hover {
   color: gray;
@@ -113,10 +113,10 @@ ul li a:hover {
 h1 {
   color: purple;
   padding: 5px;
-  font-family: "Lato", sans-serif;
+  font-family: "Rye", sans-serif;
 }
 p {
-  font-family: "Karla", sans-serif;
+  font-family: "Be Vietnam Pro", sans-serif;
 }
 .container {
   text-align: center;
@@ -144,9 +144,11 @@ p {
   max-width: 1100px;
   margin: 20px auto;
 }
-
+.content-living-room h1 {
+  font-family: "Rye", sans-serif;
+}
 .content-living-room p {
-  max-width: 720px;
+  max-width: 650px;
   margin: 5px auto;
 }
 .content-living-room img {
@@ -157,6 +159,10 @@ p {
 .content-elements img:hover {
   filter: grayscale(0.6);
 }
+footer button,
+.button {
+  font-family: "Arbutus Slab", sans-serif;
+}
 .button {
   background-color: purple;
   padding: 10px 40px;
@@ -166,7 +172,6 @@ p {
   font-weight: 600;
   font-size: large;
   border-radius: 50px;
-  font-family: "Lato", sans-serif;
 }
 .button:hover {
   background-color: rgba(70, 150, 193);
